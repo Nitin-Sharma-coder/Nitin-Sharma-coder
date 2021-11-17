@@ -1,2 +1,2 @@
-# [![waylon walker header](pic2.png)](https://waylonwalker.com)
+# [![waylon walker header](pic.png)](https://waylonwalker.com)
 
