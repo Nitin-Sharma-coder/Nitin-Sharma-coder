@@ -1,7 +1,7 @@
 # ![Nitin Sharma](https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/myheader.png)
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nitin Sharma!]()
   
-<a href="https://www.linkedin.com/in/gargk747/">
+<a href="https://www.linkedin.com/in/nitin-sharma-b43136202/">
   <img align="left" width="35px" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/pic3.gif"  />
 </a>
 <a href="https://twitter.com/gagrk747">
