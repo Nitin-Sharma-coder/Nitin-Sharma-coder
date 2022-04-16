@@ -4,13 +4,13 @@
 <a href="https://www.linkedin.com/in/nitin-sharma-b43136202/">
   <img align="left" width="35px" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/pic3.gif"  />
 </a>
-<a href="https://twitter.com/gagrk747">
+<a href="https://twitter.com/Nitinsh91490290">
   <img align="left" width="35px" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/twitter.gif" />
 </a>
-<a href="mailto:gargk747@gmail.com">
+<a href="mailto:nitinsharmaofficial.mail@gmail.com">
   <img align="left" width="35px" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/happy_gmail.gif" />
 </a>
-<a href="https://www.instagram.com/gargk747/">
+<a href="https://www.instagram.com//">
   <img align="left" width="35px" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/insta.gif" />
 </a>
 <a href="https://devpost.com/gargk747">
