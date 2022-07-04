@@ -1,20 +1,20 @@
 # ![Nitin Sharma](https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/myheader.png)
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nitin Sharma!]()
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29" height = "29">, I'm [Nitin Sharma!]()
   
 <a href="https://www.linkedin.com/in/nitin-sharma-b43136202/">
-  <img align="left" width="35px" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/pic3.gif"  />
+  <img align="left" width = "39" height = "39" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/pic3.gif"  />
 </a>
 <a href="https://twitter.com/Nitinsh91490290">
-  <img align="left" width="35px" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/twitter.gif" />
+  <img align="left" width="39" height = "39" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/twitter.gif" />
 </a>
 <a href="mailto:nitinsharmaofficial.mail@gmail.com">
-  <img align="left" width="35px" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/happy_gmail.gif" />
+  <img align="left" width="39" height = "39" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/happy_gmail.gif" />
 </a>
 <a href="https://www.instagram.com//">
-  <img align="left" width="35px" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/insta.gif" />
+  <img align="left" width="39" height="39" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/insta.gif" />
 </a>
 <a href="https://devpost.com/gargk747">
-  <img align="left" width="35px" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/devpost.png" />
+  <img align="left" width="39" height = "39" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/devpost.png" />
 </a>  
 
 <br/>
