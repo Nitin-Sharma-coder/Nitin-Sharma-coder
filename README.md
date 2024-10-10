@@ -1,14 +1,11 @@
 # ![Your Name](https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/myheader.png)
-## Hello! 👋 I'm [Your Name](https://your-website-or-profile-link)
+## Hello! 👋 I'm [Nitin Sharma](https://3dportfolio-nitin-sharma.netlify.app/)
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="https://www.linkedin.com/in/nitin-sharma-coder/">
   <img align="left" width="40" height="40" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/pic3.gif" />
 </a>
 <a href="https://twitter.com/your-twitter">
   <img align="left" width="40" height="40" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/twitter.gif" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img align="left" width="40" height="40" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/happy_gmail.gif" />
 </a>
 <a href="https://www.instagram.com/your-instagram/">
   <img align="left" width="40" height="40" src="https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/insta.gif" />
@@ -20,10 +17,10 @@
 <br/>
 
 ## About Me 🚀
-I'm a passionate [Your Degree/Field] student with a strong interest in [Your Interests or Fields]. I thrive in collaborative environments and love tackling challenges with innovative solutions.
+I'm a passionate Engineer with a strong interest in Software Technologies. I thrive in collaborative environments and love tackling challenges with innovative solutions.
 
-- 🎓 Currently pursuing my [Your Major] at [Your University].
-- 👨‍💻 Proficient in [key technologies or languages].
+- 🎓 Completed my Bachelor of Technology at Swami Keshvanand Institute of Technology, Management and Gramothan (SKIT), Jaipur.
+- 👨‍💻 Proficient in Javascript and Front-End Technologies.
 - 🌱 Always eager to learn and adapt to new technologies.
 
 ## Technologies & Tools 🛠️
@@ -66,8 +63,8 @@ Here are some of my notable projects:
 - [Achievement 3: Description or link]
 
 ## 🎨 Hobbies
-- 🎮 Gaming
-- 📚 Reading
+- 🎮 
+- Cooking
 - 🎨 Graphic Design
 
 ## 💼 Skills
@@ -82,7 +79,6 @@ Here are some of my notable projects:
 
 ## 📫 Get in Touch
 Feel free to reach out to me via:
-- Email: [your-email@example.com](mailto:your-email@example.com)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
 - Twitter: [Your Twitter](https://twitter.com/your-twitter)
 
