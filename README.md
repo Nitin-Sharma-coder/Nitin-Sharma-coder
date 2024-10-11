@@ -1,4 +1,4 @@
-# ![Your Name](https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/myheader.png)
+# ![Nitin Sharma](https://github.com/Nitin-Sharma-coder/Nitin-Sharma-coder/blob/main/myheader.png)
 ## Hello! 👋 I'm [Nitin Sharma](https://3dportfolio-nitin-sharma.netlify.app/)
 
 <a href="https://www.linkedin.com/in/nitin-sharma-coder/">
@@ -75,13 +75,12 @@ Here are some of my notable projects:
 </p>
 
 ## 🎉 Fun Fact
-[Add a fun fact about yourself or something unique!]
+I create unique recipes that blend traditional Indian flavors with modern cooking techniques, showcasing my ability to merge different ideas into cohesive projects.
 
 ## 📫 Get in Touch
 Feel free to reach out to me via:
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/nitin-sharma-coder/)
 - Twitter: [Your Twitter](https://twitter.com/your-twitter)
 
----
-
+  
 I’m always open to networking and collaboration. Let’s connect!
